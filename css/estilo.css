@@ -3,3 +3,10 @@ body{
     border: 1px solid black; /*Cambios parte 2*/
 }
 
+p{
+    background-color: rgba(128, 128, 128, 0.508);
+}
+
+div{
+    border: dashed black 1px;
+}
